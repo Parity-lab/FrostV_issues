@@ -143,7 +143,7 @@ Locales['de'] = {
   ['police_stock'] = 'Polizei Stock',
   -- Misc
   ['remove_prop'] = 'Drücke ~INPUT_CONTEXT~ um das Objekt zu entfernen',
-  ['map_blip'] = 'Polizeistation',
+  ['map_blip'] = 'LSPD',
   ['unrestrained_timer'] = 'Sie spüren wie ihre handschellen locker werden und können sich befreien.',
   -- Notifications
   ['alert_police'] = 'Polizei alamieren',
